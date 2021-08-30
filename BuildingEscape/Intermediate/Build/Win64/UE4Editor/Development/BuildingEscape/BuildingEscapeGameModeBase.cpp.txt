@@ -1,7 +1,7 @@
-C:\Users\Acer\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h
-c:\users\acer\documents\unreal projects\buildingescape\source\buildingescape\BuildingEscapeGameModeBase.h
+F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h
+f:\repos\unreal\unreal study\unreal_buildingescape\buildingescape\source\buildingescape\BuildingEscapeGameModeBase.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\Acer\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscape\BuildingEscapeGameModeBase.generated.h
+F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Inc\BuildingEscape\BuildingEscapeGameModeBase.generated.h

@@ -5,7 +5,7 @@
 			"name": "BuildingEscape (Debug)",
 			"request": "launch",
 			"preLaunchTask": "BuildingEscape Win64 Debug Build",
-			"program": "C:\\Users\\Acer\\Documents\\Unreal Projects\\BuildingEscape\\Binaries\\Win64\\BuildingEscape-Win64-Debug.exe",
+			"program": "F:\\repos\\Unreal\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape\\Binaries\\Win64\\BuildingEscape-Win64-Debug.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
@@ -18,7 +18,7 @@
 			"name": "BuildingEscape (DebugGame)",
 			"request": "launch",
 			"preLaunchTask": "BuildingEscape Win64 DebugGame Build",
-			"program": "C:\\Users\\Acer\\Documents\\Unreal Projects\\BuildingEscape\\Binaries\\Win64\\BuildingEscape-Win64-DebugGame.exe",
+			"program": "F:\\repos\\Unreal\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape\\Binaries\\Win64\\BuildingEscape-Win64-DebugGame.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
@@ -31,7 +31,7 @@
 			"name": "BuildingEscape (Development)",
 			"request": "launch",
 			"preLaunchTask": "BuildingEscape Win64 Development Build",
-			"program": "C:\\Users\\Acer\\Documents\\Unreal Projects\\BuildingEscape\\Binaries\\Win64\\BuildingEscape.exe",
+			"program": "F:\\repos\\Unreal\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape\\Binaries\\Win64\\BuildingEscape.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
@@ -44,7 +44,7 @@
 			"name": "BuildingEscape (Shipping)",
 			"request": "launch",
 			"preLaunchTask": "BuildingEscape Win64 Shipping Build",
-			"program": "C:\\Users\\Acer\\Documents\\Unreal Projects\\BuildingEscape\\Binaries\\Win64\\BuildingEscape-Win64-Shipping.exe",
+			"program": "F:\\repos\\Unreal\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape\\Binaries\\Win64\\BuildingEscape-Win64-Shipping.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
@@ -57,7 +57,7 @@
 			"name": "BuildingEscape (Test)",
 			"request": "launch",
 			"preLaunchTask": "BuildingEscape Win64 Test Build",
-			"program": "C:\\Users\\Acer\\Documents\\Unreal Projects\\BuildingEscape\\Binaries\\Win64\\BuildingEscape-Win64-Test.exe",
+			"program": "F:\\repos\\Unreal\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape\\Binaries\\Win64\\BuildingEscape-Win64-Test.exe",
 			"args": [
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
@@ -72,7 +72,7 @@
 			"preLaunchTask": "BuildingEscapeEditor Win64 Debug Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
 			"args": [
-				"C:\\Users\\Acer\\Documents\\Unreal Projects\\BuildingEscape\\BuildingEscape.uproject"
+				"F:\\repos\\Unreal\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape\\BuildingEscape.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
 			"stopAtEntry": false,
@@ -86,7 +86,7 @@
 			"preLaunchTask": "BuildingEscapeEditor Win64 DebugGame Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"C:\\Users\\Acer\\Documents\\Unreal Projects\\BuildingEscape\\BuildingEscape.uproject"
+				"F:\\repos\\Unreal\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape\\BuildingEscape.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
 			"stopAtEntry": false,
@@ -100,7 +100,7 @@
 			"preLaunchTask": "BuildingEscapeEditor Win64 Development Build",
 			"program": "C:\\Program Files\\Epic Games\\UE_4.22\\Engine\\Binaries\\Win64\\UE4Editor.exe",
 			"args": [
-				"C:\\Users\\Acer\\Documents\\Unreal Projects\\BuildingEscape\\BuildingEscape.uproject"
+				"F:\\repos\\Unreal\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape\\BuildingEscape.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_4.22",
 			"stopAtEntry": false,
@@ -117,7 +117,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=\"C:\\Users\\Acer\\Documents\\Unreal Projects\\BuildingEscape\\BuildingEscape.uproject\"",
+				"-project=\"F:\\repos\\Unreal\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape\\BuildingEscape.uproject\"",
 				"-game",
 				"-engine"
 			],

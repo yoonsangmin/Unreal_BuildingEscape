@@ -1,7 +1,8 @@
 {
 	"files.exclude": {
-		"C:/Users/Acer/Documents/Unreal Projects/BuildingEscape/.vscode": true,
-		"C:/Users/Acer/Documents/Unreal Projects/BuildingEscape/Content": true,
-		"C:/Users/Acer/Documents/Unreal Projects/BuildingEscape/Intermediate": true
+		"F:/repos/Unreal/Unreal Study/Unreal_BuildingEscape/BuildingEscape/.vscode": true,
+		"F:/repos/Unreal/Unreal Study/Unreal_BuildingEscape/BuildingEscape/Content": true,
+		"F:/repos/Unreal/Unreal Study/Unreal_BuildingEscape/BuildingEscape/Intermediate": true,
+		"F:/repos/Unreal/Unreal Study/Unreal_BuildingEscape/BuildingEscape/Saved": true
 	}
 }
