@@ -6,11 +6,13 @@
 /NAME:"UE4Editor-BuildingEscape.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Acer\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\Acer\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscape.cpp.obj"
-"C:\Users\Acer\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscapeGameModeBase.cpp.obj"
-"C:\Users\Acer\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscape.init.gen.cpp.obj"
-"C:\Users\Acer\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscapeGameModeBase.gen.cpp.obj"
-"C:\Users\Acer\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Default.rc2.res"
-/OUT:"C:\Users\Acer\Documents\Unreal Projects\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape.lib"
+"F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\BuildingEscapeEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscape.cpp.obj"
+"F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscapeGameModeBase.cpp.obj"
+"F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\WorldPosition.cpp.obj"
+"F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscape.init.gen.cpp.obj"
+"F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\BuildingEscapeGameModeBase.gen.cpp.obj"
+"F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\WorldPosition.gen.cpp.obj"
+"F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Default.rc2.res"
+/OUT:"F:\repos\Unreal\Unreal Study\Unreal_BuildingEscape\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape.lib"
 /INCLUDE:IMPLEMENT_MODULE_BuildingEscape
