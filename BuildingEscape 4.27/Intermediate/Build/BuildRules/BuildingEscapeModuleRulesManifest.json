@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\source\\repos\\Unreal Projects\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape 4.27\\Source\\BuildingEscape\\BuildingEscape.Build.cs",
+		"F:\\source\\repos\\Unreal Projects\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape 4.27\\Source\\BuildingEscape.Target.cs",
+		"F:\\source\\repos\\Unreal Projects\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape 4.27\\Source\\BuildingEscapeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

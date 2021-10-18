@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuildingEscape",
+			"Path": "F:\\source\\repos\\Unreal Projects\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape 4.27\\Source\\BuildingEscape.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuildingEscapeEditor",
+			"Path": "F:\\source\\repos\\Unreal Projects\\Unreal Study\\Unreal_BuildingEscape\\BuildingEscape 4.27\\Source\\BuildingEscapeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

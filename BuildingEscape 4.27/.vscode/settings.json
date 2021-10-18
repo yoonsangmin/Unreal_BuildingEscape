@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"F:/repos/Unreal/Unreal Study/Unreal_BuildingEscape/BuildingEscape/.vscode": true,
+		"F:/repos/Unreal/Unreal Study/Unreal_BuildingEscape/BuildingEscape/Content": true,
+		"F:/repos/Unreal/Unreal Study/Unreal_BuildingEscape/BuildingEscape/Intermediate": true,
+		"F:/repos/Unreal/Unreal Study/Unreal_BuildingEscape/BuildingEscape/Saved": true
+	}
+}
